@@ -5,7 +5,7 @@ DEPRECATED: This lesson does not meet our standards and will be removed in a fut
 ```
 
 ## Overview
-We're going to build an e-commerce site! We're going to make an online store where users can browse items, put items in their carts, and buy items, which changes our inventory.
+We're going to build an e-commerce site! We're going to make an online store where users can browse items, put items in their carts, and buy items, which changes our inventory. ,
 
 ## Instructions
 
